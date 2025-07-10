@@ -82,7 +82,7 @@ Tips & Tricks:
 - FarGate Spot for cost saving / non critical workloads
 - Turn off unused services/tasks
 
-<img width="1149" height="285" alt="image" src="https://github.com/user-attachments/assets/acfb67fa-6c59-4913-b688-3d08ee7b27d4" />
+
 
 
 
